@@ -1,4 +1,7 @@
+body {
+background-color: hotpink;
+}
 h1 {
-text-align: centre;
-font-size: 30px;
+align-text: centre;
+font-size: 60px;
 }
