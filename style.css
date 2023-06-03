@@ -2,6 +2,6 @@ body {
 background-color: hotpink;
 }
 h1 {
-align-text: centre;
+justify-self: centre;
 font-size: 60px;
 }
