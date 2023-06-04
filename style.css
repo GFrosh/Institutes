@@ -1,8 +1,11 @@
-header {
+* {
+background-color: teal;
+}
+.heading {
 font-size: 20px;
 background-color: teal;
 }
-main {
+div {
 background-color: #343434;
 color: almond;
 }
