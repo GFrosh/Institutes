@@ -1,11 +1,10 @@
-{
+body {
 background-color: teal;
 }
 .heading {
 font-size: 15px;
-background-color: teal;
+color: #343434;
 }
 .main {
-background-color: #343434;
 color: almond;
 }
